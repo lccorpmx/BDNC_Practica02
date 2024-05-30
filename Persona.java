@@ -7,10 +7,6 @@ package org.uv.BDNC_Practica03;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
-/**
- *
- * @author francisco
- */
 @Document(  )
 public class Persona {
     @Id
